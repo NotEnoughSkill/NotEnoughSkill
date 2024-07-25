@@ -4,9 +4,9 @@
 
 - 🌱 My Current Project: AuroraPvP (as of 12/26/21)
 
-- 📫 Discord: NotEnoughSkill#5210
+- 📫 Discord: NotEnoughSkill
 
-- ⚡ 3+ Years Java Developer
+- ⚡ 5+ Years Java Developer
 
 <br>
 
